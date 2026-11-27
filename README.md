@@ -30,11 +30,6 @@ The dataset includes transaction details, mobile brands, models, units sold, pri
 - Microsoft Excel
 - DAX (Data Analysis Expressions)
 
-## 🛠️ Tools & Technologies
-- Microsoft Power BI
-- Microsoft Excel
-- DAX (Data Analysis Expressions)
-
 ## 📊 Dashboard Features
 
 **Key Performance Indicators (KPIs)**
