@@ -60,8 +60,6 @@ The dataset includes transaction details, mobile brands, models, units sold, pri
 
 ## 🧮 DAX Measures Used
 
-The following DAX measures were created to calculate key sales performance metrics.
-
 ### 1. Total Sales
 
 ```dax
