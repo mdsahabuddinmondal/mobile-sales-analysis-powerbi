@@ -23,6 +23,13 @@ This is a guided practice project that I recreated by following my instructor's 
 
 The dataset includes transaction details, mobile brands, models, units sold, prices, customer information, payment methods, cities, and customer ratings.
 
+**Dataset Source:** Provided by Satish Dhawale as part of the SkillCourse Power BI tutorial.
+
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Microsoft Excel
+- DAX (Data Analysis Expressions)
+
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
 - Microsoft Excel
