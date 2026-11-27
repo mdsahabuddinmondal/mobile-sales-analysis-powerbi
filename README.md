@@ -102,7 +102,7 @@ I recreated this dashboard independently as part of my Power BI learning journey
 
 ## 📸 Dashboard Preview
 
-![Mobile Sales Analysis Dashboard](mobile-sales-analysis-dashboard.png)
+![Mobile Sales Dashboard](dashboard-preview.png)
 
 ---
 
