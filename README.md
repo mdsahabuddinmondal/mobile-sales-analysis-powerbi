@@ -58,9 +58,12 @@ The dataset includes transaction details, mobile brands, models, units sold, pri
 - Payment Method
 - Day Name
 
-## 🧮 DAX Measures
+## 🧮 DAX Measures Used
 
-**1. Total Sales**
+The following DAX measures were created to calculate key sales performance metrics.
+
+### 1. Total Sales
+
 ```dax
 Total_sales =
 SUMX(
@@ -70,19 +73,22 @@ SUMX(
 )
 ```
 
-**2. Total Quantity**
+### 2. Total Quantity
+
 ```dax
 Total_quantity =
 SUM('Sales Data'[Units Sold])
 ```
 
-**3. Total Transactions**
+### 3. Total Transactions
+
 ```dax
 Total_transaction =
 COUNTROWS('Sales Data')
 ```
 
-**4. Average Unit Price**
+### 4. Average Unit Price
+
 ```dax
 Average =
 AVERAGE('Sales Data'[Price Per Unit])
